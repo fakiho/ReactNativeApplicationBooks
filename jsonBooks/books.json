@@ -34,7 +34,7 @@
       "website": "http://speakingjs.com/"
     },
     {
-      "isbn": "9781491950296",
+      "id": "9781491950296",
       "title": "Programming JavaScript Applications",
       "subtitle": "Robust Web Architecture with Node, HTML5, and Modern JS Libraries",
       "author": "Eric Elliott",
